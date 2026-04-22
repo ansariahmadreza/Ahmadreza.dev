@@ -8,9 +8,9 @@ import { useRouter } from 'next/navigation';
 
 const DropDownMenu = () => {
 
-    const Router = useRouter()
-    const token = cookie.get("token")
-    const { logout } = useCartContext()
+    const Router = useRouter();
+    const token = cookie.get("token");
+    const { logout } = useCartContext();
 
     const handleAccount = () => {
         if (token) Router.push(routes.dashboord)
