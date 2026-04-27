@@ -5,13 +5,14 @@ Modern online shop inspired by ASOS - featuring price filter, sorting, smart pag
 
 ## Features
 
-- 🔍 **Search** - Product search by keyword
-- 🧭 **Breadcrumb** - Navigation path display for easy browsing
-- 🔍 **Price Filter** - Filter by minimum and maximum price
-- 📊 **Sorting** - Most expensive / cheapest
-- 📄 **Smart Pagination** - Page numbers with click-to-navigate
-- 👤 **Demo User System** - Mock authentication with localStorage
-- 📱 **PWA** - Install on mobile device
+🔍 Search - Product search by keyword
+🧭 Breadcrumb - Navigation path display for easy browsing
+🔍 Price Filter - Filter by minimum and maximum price
+📊 Sorting - Most expensive / cheapest
+📄 Smart Pagination - Page numbers with click-to-navigate
+👤 Demo User System - Mock authentication with localStorage
+📱 PWA - Install on mobile device
+❤️ Wishlist - Add/remove products to favorites (user-specific)
 
 
 ## Tech Stack
